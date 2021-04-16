@@ -1,6 +1,6 @@
 ### Hi! I'm Markus Bassermann
 
-Historian | Developer | Dabbler in lots of things
+Historian | Developer | Dabbler in many things
 
 I studied history and sociology in Hamburg and Oslo. Additionally, I've always been passionate about development and am fascinated by the many ways digital methods and the humanities can be and are currently being integrated. I am particularly interested in the intersection of digital games and history, especially in remembrance culture and the museum context.
 
