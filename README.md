@@ -8,7 +8,7 @@ I am particularly interested in the intersection of digital games and history, e
 
 - 🔭 I’m currently deciding on where to go next after having [written my Master-Thesis](https://www.youtube.com/watch?v=_S5UpGx6470).
 - 🌱 I’m currently learning Data Analysis with Python and Game Development in Unity.
-- 👯 I’m looking to collaborate on the [Digital Humanities Link Repository](https://github.com/Wolfenswan/Digital-Humanities-Link-Repository).
+- 👯 I’m looking to collaborate on the [Digital Humanities Link Repository](https://github.com/Wolfenswan/Digital-Humanities-Link-Repository) and interesting game projects.
 - 💬 Get in touch via [email](&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x6b;&#x6f;&#x6e;&#x74;&#x61;&#x6b;&#x74;&#x40;&#x6d;&#x61;&#x62;&#x61;&#x73;&#x73;&#x2e;&#x64;&#x65;)!
 
 <!--
