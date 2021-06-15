@@ -1,4 +1,4 @@
-### Hi! I'm Markus Bassermann
+### Hi! I'm Markus
 
 Historian | Developer | Dabbler in many things
 
